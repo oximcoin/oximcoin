@@ -1,0 +1,9 @@
+Building Oximcoin
+
+See doc/readme-qt.rst for instructions on building Oximcoin-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Oximcoin.
+
+See doc/build-*.txt for instructions on building oximcoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of Oximcoin.
